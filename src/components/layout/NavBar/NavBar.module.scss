@@ -1,0 +1,9 @@
+@import '~/src/styles/colors.scss';
+.navBar {
+  width: 100%;
+  background: $blueGradient;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  height: 11vh;
+}
